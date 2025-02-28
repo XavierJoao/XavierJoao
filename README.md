@@ -38,13 +38,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XavierJoao&layout=compact&langs_count=6&theme=radical" />
 </p>
 
-<!--
 ---  
 
-### 🐍 **Snake Animation**
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
-<img src="https://github.com/XavierJoao/XavierJoao/blob/output/github-contribution-grid-snake.svg" />
--->
 ---
 
 ### 📫 **Get in Touch**
