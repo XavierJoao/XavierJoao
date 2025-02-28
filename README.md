@@ -24,10 +24,9 @@
 
 ### 📂 **Projects & Portfolio**
 
-🔹 [Air Quality Analysis in Brazil](https://github.com/your_username/air-quality-project) 🌎
-🔹 [Credit Card Fraud Prediction](https://github.com/your_username/credit-card-fraud) 💳
-🔹 [Online Store Landing Page](https://github.com/your_username/online-store) 🛒
-🔹 More projects in my [portfolio](https://github.com/your_username) 🚀
+🔹 [Credit Card Fraud Prediction](https://github.com/XavierJoao/fraudes-cartao-de-credito) 💳
+🔹 [College Landing Page](https://colegiofeliz.com.br/) 🛒
+🔹 More projects in my [portfolio]((https://github.com/XavierJoao/portfolio)) 🚀
 
 ---  
 
@@ -57,4 +56,6 @@
 <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <a href="https://wa.me/+5511951724615"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+
+🔹 [Air Quality Analysis in Brazil](https://github.com/your_username/air-quality-project) 🌎
 -->
