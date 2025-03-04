@@ -26,6 +26,7 @@
 
 🔹 [Credit Card Fraud Prediction](https://github.com/XavierJoao/fraudes-cartao-de-credito) 💳
 🔹 [College Landing Page](https://colegiofeliz.com.br/) 🛒
+🔹 [Name Drawer](https://github.com/XavierJoao/amigo-secreto) 
 🔹 More projects in my [portfolio](https://github.com/XavierJoao/portfolio) 🚀
 
 ---  
